@@ -1,6 +1,6 @@
 ## graalvm-v2302-path-tofile-test
 
-- For https://github.com/apache/shardingsphere/pull/29000 .
+- For https://github.com/apache/shardingsphere/pull/29000 and https://github.com/oracle/graal/issues/7804 .
 
 - Execute the following command on the new Ubuntu 22.04.3 LTS instance.
 
