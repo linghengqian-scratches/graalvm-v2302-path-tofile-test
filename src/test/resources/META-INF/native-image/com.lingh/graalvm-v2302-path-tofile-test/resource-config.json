@@ -1,0 +1,8 @@
+{
+  "resources":{
+  "includes":[{
+    "condition":{"typeReachable":"com.lingh.PathTest"},
+    "pattern":"\\Qh2.txt\\E"
+  }]},
+  "bundles":[]
+}
